@@ -1,4 +1,4 @@
-# Willkommen bei **[Organisationsname]**!
+# Willkommen bei **OpenTechForge**!
 ## Über uns
 Wir sind eine engagierte und leidenschaftliche GitHub-Organisation, die sich der Förderung von Open-Source-Software und der Zusammenarbeit in der Entwicklergemeinschaft verschrieben hat.
 
@@ -24,4 +24,4 @@ Besuche regelmäßig unsere Seite, um Updates zu unseren Projekten, Events und C
 
 Wir freuen uns darauf, mit dir zusammenzuarbeiten, um großartige Software zu schaffen und die Entwicklergemeinschaft zu stärken!
 
-Dein **[Organisationsname]**-Team
+Dein **OpenTechForge**-Team
